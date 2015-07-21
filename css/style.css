@@ -1,0 +1,670 @@
+/*
+Theme Name: Septix
+Theme URL: http://
+Author: Agencia Mixen
+Author URL: http://mixen.mx/
+Description: Tema para el sitio de Septix	.
+Version: 1.0
+Text Domain: Mixen Communication & Web Technology
+*/
+
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
+/* BEGIN GENERAL STYLES */
+
+* {
+	color: #626262;
+	font-family: Ubuntu;
+}
+
+p {
+	font-size: 1.5em
+}
+
+body {
+	padding-top: 115px;
+	position: relative;
+	overflow-x: hidden;
+}
+
+h1, h2, h3 {
+	text-align: center;
+	margin: 25px auto;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+.white {
+	color: #fff;
+}
+
+.blue {
+	color: #3fa5dd;
+}
+
+.yellow {
+	color: #f9c025;
+}
+
+.green {
+	color: #4ab35a;
+}
+
+.vert-margin-small {
+	margin: 20px auto;
+}
+
+.vert-margin {
+	margin: 45px auto;
+}
+
+.padding {
+	padding: 100px 10px;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.sm-border-right {
+	border-right: 3px solid #4ab35a;
+}
+
+.sm-border-left {
+	border-left: 3px solid #4ab35a;
+}
+
+.sm-right {
+	text-align: right;
+}
+
+.btn-yellow {
+	display: block;
+	margin: 20px auto;
+	border: #f9c025 solid 2px;
+	padding: 5px;
+	color: #f9c025;
+	font-size: 21px;
+	background-color: #fff;
+	width: 230px;
+	text-align: center;
+}
+
+.btn-yellow:hover {
+	text-decoration: none;
+	background-color: #f0f0f0;
+	color: #E0AD21;
+}
+
+.transform-center-vertical {
+	position: relative;
+	top: 50%;
+	transform: translate(0, -50%);
+}
+
+.pseudo-center-container {
+  text-align: center;
+  white-space: nowrap;
+}
+
+.pseudo-center-container:before {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+  margin-right: -0.25em; /* Adjusts for spacing */
+}
+
+.pseudo-center {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.inline-list {
+    list-style: none;
+}
+
+.inline-list li {
+    display: inline;
+}
+
+
+/* END GENERAL STYLES */
+
+/* BEGIN NAVBAR */
+.navbar-septix {
+	position: fixed;
+	width: 101%;
+	margin-left: -0.5%;
+	top: 0;
+	height: 115px;
+	border-bottom: #f9c025 solid 3px;
+	background: #fff;
+	z-index: 50;
+}
+
+.navbar-nav {
+	margin-top: 30px;
+}
+
+.navbar-nav li.active {
+	background-color: #fff !important;
+	border-bottom: rgba(249, 192, 37, 0.6) solid 2px;
+}
+
+.navbar-nav li a:focus, .navbar-nav li a:hover  {
+	background-color: #fff !important;
+	border-bottom: rgba(249, 192, 37, 0.4) solid 2px;
+}
+
+.navbar-nav li a {
+	color: #227bbf;
+}
+/* END NAVBAR */
+
+
+/* BEGIN INDEX */
+.banner {
+	background: url(../img/backgrounds/1.jpg) no-repeat center center;
+	-webkit-background-size: cover;
+	background-size: cover;
+	height: calc(100vh - 115px);
+	width: 100%;
+	margin-top: -25px;
+}
+
+.banner h2, .banner h1 {
+	text-shadow: 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+}
+
+.servicios {
+	text-align: center;
+	position: relative;
+}
+
+.servicio-item {
+	margin: 20px;
+	display: inline-block;
+	width: 289px;
+}
+
+.servicio-line {
+	position: relative;
+	width: 175px;
+	height: 3px;
+	margin: 100px -80px 0px -80px;
+	background-color: #fff;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.servicio-item p {
+	color: white;
+	margin-top: 20px;
+}
+
+.product {
+	margin: 20px auto;
+	text-align: center;
+}
+
+.product img {
+	max-width: 280px;
+}
+
+.manual {
+	text-align: center;
+}
+
+.manual .hoveroverlay {
+	padding: 5px;
+	border: #fff solid 2px;
+}
+
+.manual img {
+	max-width: 90vw;
+}
+
+label {
+	color: #797979;
+}
+
+input, textarea {
+	min-height: 46px;
+	width: 100%;
+	border: #4ab35a solid 3px;
+	display: block;
+	margin-bottom: 20px;
+	padding: 5px;
+}
+
+input:focus ,textarea:focus {
+	box-shadow: 3px 3px 3px 3px rgba(0,0,0,0.3);
+}
+
+.submit {
+	color: #fff;
+	background-color:#4ab35a;
+	width: 129px;
+	height: 41px;
+	float: right;
+	border: none;
+}
+
+.submit:hover {
+	background-color: #3B8F48;
+}
+
+#form-output {
+	clear: both;
+	margin-top: 100px;
+}
+/* END INDEX */
+
+/* BEGIN PRODUCTS */
+
+.fixed-bg-products {
+	background: url(../img/backgrounds/fixed-1.jpg) no-repeat center 100% fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+	width: 100vw;
+	height: 250px;
+}
+
+.product-detail {
+	margin-bottom: 15vh;
+}
+
+.controls {
+	border: 1px solid #f9c025;
+}
+
+.controls p {
+	font-size: 1em;
+	margin: 0px;
+	padding: 10px;
+}
+
+.controls h4 {
+	margin: 0px;
+	padding: 10px;
+	background-color: #f9c025;
+	color: #fff;
+}
+
+.controls .active {
+	background-color: #f9c025;
+}
+
+.controls .active p {
+	color: #fff;
+}
+
+.controls a:hover, .controls a:focus {
+	text-decoration: none;
+}
+
+.controls a:hover p {	
+	color: #bbb;
+}
+
+.controls a:hover .active p {	
+	color: #eee;
+}
+
+.product-detail {
+}
+
+.product-detail img {
+	
+	display: block;
+	margin: 20px auto;
+	border: #f9c025 solid 2px;
+	border-radius: 5px;
+	max-width: 100%;
+}
+
+.product-detail p.yellow {
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.product-detail p {
+	font-size: 1em;
+	line-height: 30px;
+}
+
+/* END PRODUCTS */
+
+/* BEGIN MANUALES */
+
+.fixed-bg-manuals {
+	background: url(../img/backgrounds/fixed-2.jpg) no-repeat center 16% fixed;
+	-webkit-background-size: cover;
+	background-size: cover;
+	width: 100vw;
+	height: 250px;
+}
+
+.manual-detail {
+	position: relative;
+	
+}
+
+.manual-detail .hoveroverlay {
+	margin: 40px auto;
+	left: 50%;
+	transform: translateX(-50%);
+}
+
+.manual-detail img {
+	border: 2px solid #4ab35a;
+	max-width: 95vw;
+	display: block;
+	margin: 0px auto;
+	
+}
+
+.pages {
+    margin: 40px auto;
+	max-width: 870px;
+    font-size: 12px !important;
+    padding: 20px 20px 13px 20px;
+    border-top: #1dbb90 solid 2px;
+    border-bottom:  #1dbb90 solid 2px;
+}
+
+.pages p {
+    font-size: 12px !important;
+	color: #343d4a;
+	text-align: center;	
+}
+
+.pages a {
+    color: #a7a7a7;
+    margin: 0px 10px;
+}
+
+.pages a:hover {
+    color: #a7a7c7;
+}
+
+.pages li.next-page {
+    height: 18px;
+    width: 18px;
+    margin-top: -3px;
+    background: url(../img/content/manuals/next-page-icon.png) no-repeat center;
+    border: #ccc solid 1px;
+    border-radius: 2px;
+	display: inline-block;
+	position: relative;
+	top: 5px;
+}
+
+.pages li.next-page:hover {
+    box-shadow: inset 0 0 0 10px rgba(100,100,100,.25);
+}
+
+.active-page a {
+    font-weight: 900;
+    color: #343d4a !important;
+}
+
+/* END MANUALES */
+
+/* BEGIN FOOTER */
+footer {
+	background-color: #009ae2;
+	padding-top: 65px
+}
+
+footer p {
+	color: #fff;
+	font-size: 1em;
+}
+
+footer .sm-border-right {
+	border-right: #fff solid 2px;
+}
+
+footer .sm-border-left {
+	border-left: #fff solid 2px;
+	padding-left: 20px;
+}
+
+.footer-rights {
+	background-color: rgba(34, 124, 191, 0.42);
+	min-height: 46px;
+	text-align: center;
+	margin-top: 45px
+}
+
+.footer-rights p {
+	margin: 13px
+}
+
+.footer-rights a {
+	color: #ddd;
+}
+
+.footer-rights a:hover {
+	color: #bbb;
+	text-decoration: none;
+}
+/* END FOOTER */
+
+/* Parallax CSS */
+.parallax-container {
+    position: relative;
+    overflow: hidden;
+    min-height: 280px;
+    height: auto;
+}
+
+.parallax {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1; 
+}
+
+.parallax img {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    min-width: 1920px;
+    width: 100%;
+    background-position: center; 
+}
+
+/* BEGIN HOVER */
+
+.hoveroverlay {
+    overflow: hidden;
+    position:relative;
+	display: inline-block;
+	border-radius: 5px;
+}
+
+.hoveroverlay:after, .hoveroverlay:before {
+    position:absolute;
+    opacity:0;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+
+.white.hoveroverlay:after {
+    content: "";
+    background: url(..img/content/hover/view-manual.png) no-repeat center center;
+    width:100%; height:100%;
+    top:0; left:0;
+	background-color:rgba(84, 64, 9, 0.59);
+}
+
+.green.hoveroverlay:after {
+    content: "";
+    background: url(..img/content/hover/view-manual.png) no-repeat center center;
+    width:100%; height:100%;
+    top:0; left:0;
+	background-color:rgba(104, 173, 111, 0.73);
+}
+
+.blue.hoveroverlay:after {
+    content: "";
+    background: url(../img/content/hover/view-product.png) no-repeat center center;
+    width:100%; height:100%;
+    top:0; left:0;
+	background-color: rgba(35, 76, 106, 0.58)
+}
+
+.hoveroverlay:before, {
+    content: attr(data-content);
+    width:100%;
+    color:#fff;
+    z-index:1;
+    bottom:0;
+    padding:4px 10px;
+    text-align:center;
+}
+.hoveroverlay:hover:after, .hoveroverlay:hover:before {
+    opacity:1;
+}
+
+/* END HOVER */
+
+/* Media Queries */
+
+@media (max-width: 1200px) {
+	.servicio-line {
+		display: none;
+	}
+	
+	.servicio-item {
+		width: auto;
+	}
+}
+
+
+@media (max-width: 992px) {	
+	
+	.navbar-nav {
+		margin-top: -15px;
+	}
+	
+	.navbar-brand img {
+		width: 190px;
+		margin-top: 15px;
+	}
+	
+	p.contact {
+		margin-left: 0px;
+	}
+	
+}
+
+
+
+@media (max-width: 767px) {
+	h1 {
+		font-size: 40px;
+	}
+	
+	.sm-border-right {
+		border-right: none;
+	}
+	
+	.sm-right {
+		text-align: left;
+	}
+	
+	.sm-border-left {
+		border-left: none;
+	}
+	
+	label {
+		margin-left: 0px;
+	}
+	
+	input,textarea {
+		margin: 15px 0px;
+		max-width: 100%;
+	}
+	
+	body {
+		padding-top: 50px;
+	}
+	
+	.banner {
+		height: calc(100vh - 50px);
+	}
+	
+	.navbar-brand img {
+		position: relative;
+		width: 140px;
+		margin-top: -16px;
+	}
+	
+	.navbar-septix {
+		height: 50px;
+		padding: 0px;
+	}
+	
+	.navbar-toggle {
+		margin-top: 4px;
+		border: 1px solid #2C739B;
+	}
+	
+	.navbar-toggle:hover {
+		background-color: #eee;
+	}
+	
+	.navbar-toggle span {
+		background-color: #2C739B;
+	}
+	
+	.navbar-collapse {
+		position: fixed;
+		background-color: rgba(255,255,255,0.8);
+		right: 0;
+		width: 300px;
+		margin-top: -1px;
+	}
+	
+	.navbar-collapse ul {
+		margin-top: 5px;
+	}
+	
+	.navbar-collapse li {
+		margin-left: 100px;
+		max-width: 150px;
+		text-align: right;
+	}
+	
+	footer .logo {
+		float: none;
+		margin: 20px auto;
+	}
+	
+	.padding {
+		padding: 40px 10px;
+	}
+	
+	br.vert-margin-small {
+		margin: 5px auto;
+	}
+	
+	
+}
+
+/* Modal display on webkit bugfix */
+.modal {
+    overflow: visible !important;
+}
