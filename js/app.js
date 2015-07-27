@@ -5,7 +5,7 @@ $(document).ready(function(){
 	$('.nav-tabs .control-item').click(function (e) {
 	  $('.nav-tabs .control-item.active').removeClass('active')
 	  $(this).addClass('active')
-	})
+	});
 });
 
 //Ajax contact form

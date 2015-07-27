@@ -99,7 +99,7 @@
         $subject = "Contactar a $name";
 
         // Build the email content.
-        $email_content = "Mensaje enviado desde la forma de contacto de Septix";
+        $email_content = "Mensaje enviado desde la forma de contacto de Septix\n";
         $email_content .= "Nombre: $name\n";
         $email_content .= "Tel: $tel\n\n";
         $email_content .= "Email: $email\n\n";
