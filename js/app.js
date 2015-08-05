@@ -6,6 +6,16 @@ $(document).ready(function(){
 	  $('.nav-tabs .control-item.active').removeClass('active')
 	  $(this).addClass('active')
 	});
+	
+	$('#products-link').bind('click',function(e){
+      e.preventDefault();
+      document.location.href="productos.php"; 
+	});
+	
+	$('#manuals-link').bind('click',function(e){
+      e.preventDefault();
+      document.location.href="manuales.php"; 
+	});
 });
 
 //Ajax contact form
