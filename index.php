@@ -100,20 +100,20 @@
 			<div class="row">
 				<div class="col-md-4">
 					<div class="manual">
-						<a href="manuales.php"><div class="white hoveroverlay"><img src="img/content/manuals/1.png" alt="Manual 1"></div></a>
-						<p class="white center-text">Manual 1</p>
+						<a href="pdf/304-Owners-Manual-062015-reduced.pdf"><div class="white hoveroverlay"><img src="img/content/manuals/index_manual.png" alt="Owner's Manual 304"></div></a>
+						<p class="white center-text">OWNER'S MANUAL</p>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="manual">
-						<a href="manuales.php"><div class="white hoveroverlay"><img src="img/content/manuals/2.png" alt="Manual 2"></div></a>
-						<p class="white center-text">Manual 2</p>
+						<a href="pdf/607-Pro_Manual_small.compressed.pdf"><div class="white hoveroverlay"><img src="img/content/manuals/index_manual2.png" alt="Owner's Manual 607"></div></a>
+						<p class="white center-text">OWNER'S MANUAL</p>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="manual">
-						<a href="manuales.php"><div class="white hoveroverlay"><img src="img/content/manuals/3.png" alt="Manual 3"></div></a>
-						<p class="white center-text">Manual 3</p>
+						<a href="pdf/866-Owners-Manual-Rev3.compressed.pdf"><div class="white hoveroverlay"><img src="img/content/manuals/index_manual3.png" alt="Owner's Manual 866"></div></a>
+						<p class="white center-text">OWNER'S MANUAL</p>
 					</div>
 				</div>
 			</div>

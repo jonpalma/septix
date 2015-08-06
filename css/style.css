@@ -371,17 +371,6 @@ input:focus ,textarea:focus {
 	
 }
 
-.green.hoveroverlay .text {
-	padding: 15px 30px;
-	border: #ffffff solid 3px;
-	opacity: 0;
-	left: 26%;
-	color: #ffffff;
-	font-size: 20px;
-	position: absolute;
-	top: 200px;
-}
-
 .manual-language {
 	text-align: center;	
 }
@@ -505,11 +494,6 @@ footer .sm-border-left {
 	background-color:rgba(104, 173, 111, 0.73);
 }
 
-.green.hoveroverlay:hover .text {
-	opacity: 1;
-	z-index: 10;
-}
-
 .blue.hoveroverlay:after {
     content: "";
     background: url(../img/content/hover/view-product.png) no-repeat center center;
@@ -555,6 +539,7 @@ footer .sm-border-left {
 	.navbar-brand img {
 		width: 190px;
 		margin-top: 15px;
+		margin-left: -10px;
 	}
 	
 	p.contact {
