@@ -400,8 +400,8 @@
 						</div>								
 					</div>
 					<div role="tabpanel" class="tab-pane fade" id="accesorios">
-						<div class="row">
-							<div class="col-sm-6 col-md-4 colsize">
+						<div class="row content-container">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/product-1.png" alt="Válvulas de Guillotina">
 									<p class="yellow center-text">Válvulas de Guillotina</p>
@@ -412,18 +412,17 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/VALVULAS-DE-PISTON.jpg" alt="Válvulas de Pistón">
 									<p class="yellow center-text">Válvulas de Pistón</p>
 									<p>
 										Válvula de pistón en 4".<br>
 										Válvula de pistón en 6".<br>
-										<br>
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/VALVULAS-DE-ALIVIO-DE-PRESION-Y-SUCCION.jpg" alt="Válvulas de Alivio">
 									<p class="yellow center-text">Válvulas de Alivio de Presion y Succión</p>
@@ -433,7 +432,7 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/ARBOL-DE-ALIVIO.jpg" alt="Árbol de Alivio">
 									<p class="yellow center-text">Árbol de Alivio</p>
@@ -444,33 +443,27 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/MIRILLAS-DE-2-y-3.jpg" alt="Mirillas de 2 y 3">
 									<p class="yellow center-text">Mirillas de 2" y 3"</p>
 									<p>
 										Mirillas de 2" en Aluminio.<br>
 										Mirillas de 2" en Carbon Steel.<br>
-										Mirillas de 3" en Carbon Steel.<br><br>
-										<br>
-										<br>
-										<br>
+										Mirillas de 3" en Carbon Steel.<br>
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/MIRILLAS-DE-5%E2%80%9D.jpg" alt="Mirillas de 5">
 									<p class="yellow center-text">Mirillas de 5"</p>
 									<p>
-										Mirillas de 5" en Aluminio, Acero al Carbon y Acero Inoxidable.<br><br>
-										<br><br>
-										<br>
-										<br>
+										Mirillas de 5" en Aluminio, Acero al Carbon y Acero Inoxidable.<br>
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/INDICADORES-DE-NIVEL.jpg" alt="Indicadores de Nivel">
 									<p class="yellow center-text">Indicadores de Nivel</p>
@@ -479,7 +472,7 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/ESFERAS-DE-FLOTACION.jpg" alt="Esferas de Flotación">
 									<p class="yellow center-text">Esferas de Flotación</p>
@@ -488,16 +481,16 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/MANOMETRO.jpg" alt="Manómetros">
 									<p class="yellow center-text">Manómetros</p>
 									<p>
-										Manómetros de Presión y Vacío.<br><br>
+										Manómetros de Presión y Vacío.<br>
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/WEST/sist-prot-bombas-230.jpg" alt="Sistema Protección 230">
 									<p class="yellow center-text">Sistemas de Protección de Bombas de hasta 230 CFM</p>
@@ -508,7 +501,7 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/WEST/sist-prot-40.jpg" alt="Sistema Protección 40">
 									<p class="yellow center-text">Sistema Económico de Protección para Bombas de hasta 40 CFM</p>
@@ -518,7 +511,7 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/WEST/valv-alivio.jpg" alt="Válvulas de Alivio">
 									<p class="yellow center-text">Válvulas de Alivio para Presión y Succión</p>
@@ -529,7 +522,7 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4 colsize">
+							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/WEST/Kit-de-rep.jpg" alt="Kit de Reparación">
 									<p class="yellow center-text">Kit de Reparación</p>

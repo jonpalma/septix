@@ -340,6 +340,17 @@ input:focus ,textarea:focus {
 	line-height: 30px;
 }
 
+.content-container {
+	display: -webkit-flex;
+	display: -ms-flex;
+	flex-wrap: wrap;
+}
+
+.content-container [class*="col-"]{
+	width: 280px;
+	display: -webkit-box;
+}
+
 /* END PRODUCTS */
 
 /* BEGIN MANUALES */
@@ -540,12 +551,13 @@ footer .sm-border-left {
 		width: 190px;
 		margin-top: 15px;
 		margin-left: -10px;
-	}
-	
+	}	
 	p.contact {
 		margin-left: 0px;
 	}
-	
+	.product-detail p{
+		text-align: center;
+	}
 }
 
 
@@ -638,7 +650,16 @@ footer .sm-border-left {
 	br.vert-margin-small {
 		margin: 5px auto;
 	}
-	
+	.content-container {
+		text-align: center;
+		display: block;
+	}
+	.content-container [class*="col-"]{
+		display: inline;
+	}
+	.product-detail p {
+		padding: 0px 50px;
+	}
 	
 }
 

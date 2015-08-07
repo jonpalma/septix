@@ -57,14 +57,14 @@
 		</div>
 		<div class="col-sm-6 col-lg-4">
 			<div class="manual-detail">
-				<a href="pdf/OM-Model-MECII-5-8000.pdf"><div class="green hoveroverlay"><img src="img/content/manuals/owners_manual5.png" alt="Owner’s Manual & Operating Instructions"><p class="text">Ver manual</p></div></a>
+				<a href="pdf/OM-Model-MECII-5-8000.pdf"><div class="green hoveroverlay"><img src="img/content/manuals/owners_manual5.png" alt="Owner’s Manual & Operating Instructions"></div></a>
 				<p class="green center-text">OWNER'S MANUAL & OPERATING INSTRUCTIONS</p>
 				<p class="center-text">MEC 50000/P MEC 6500/P MEC 8000/P</p>
 			</div>
 		</div>
 		<div class="col-sm-6 col-lg-4">
 			<div class="manual-detail">
-				<a href="pdf/Pump_SetupGuide.pdf"><div class="green hoveroverlay"><img src="img/content/manuals/challenger.png" alt="Challenger Series"><p class="text">Ver Manual</p></div></a>
+				<a href="pdf/Pump_SetupGuide.pdf"><div class="green hoveroverlay"><img src="img/content/manuals/challenger.png" alt="Challenger Series"></div></a>
 				<p class="green center-text">CHALLENGER SERIES</p>
 				<p class="center-text">Vacuum pumps</p>
 				<div class="manual-language">
