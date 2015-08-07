@@ -401,7 +401,7 @@
 					</div>
 					<div role="tabpanel" class="tab-pane fade" id="accesorios">
 						<div class="row">
-							<div class="col-sm-6 col-md-4">
+							<div class="col-sm-6 col-md-4 colsize">
 								<div class="product-detail">
 									<img src="img/content/products/product-1.png" alt="Válvulas de Guillotina">
 									<p class="yellow center-text">Válvulas de Guillotina</p>
@@ -412,17 +412,18 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4">
+							<div class="col-sm-6 col-md-4 colsize">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/VALVULAS-DE-PISTON.jpg" alt="Válvulas de Pistón">
 									<p class="yellow center-text">Válvulas de Pistón</p>
 									<p>
 										Válvula de pistón en 4".<br>
-										Válvula de pistón en 6".<br><br>
+										Válvula de pistón en 6".<br>
+										<br>
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4">
+							<div class="col-sm-6 col-md-4 colsize">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/VALVULAS-DE-ALIVIO-DE-PRESION-Y-SUCCION.jpg" alt="Válvulas de Alivio">
 									<p class="yellow center-text">Válvulas de Alivio de Presion y Succión</p>
@@ -432,38 +433,44 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4">
+							<div class="col-sm-6 col-md-4 colsize">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/ARBOL-DE-ALIVIO.jpg" alt="Árbol de Alivio">
 									<p class="yellow center-text">Árbol de Alivio</p>
 									<p>
 										Construida en aluminio, y se instala fácilmente en sistemas de 2", 3" o 4".<br>
 										Incluye: Válvula de alivio de presión, Válvula de alivio de succión, Manómetro de presión / vacío, Puerto de 1" para purga.<br>
-										Árbol de alivio en 2", 3" y 4".
+										Árbol de alivio en 2", 3" y 4".<br>
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4">
+							<div class="col-sm-6 col-md-4 colsize">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/MIRILLAS-DE-2-y-3.jpg" alt="Mirillas de 2 y 3">
 									<p class="yellow center-text">Mirillas de 2" y 3"</p>
 									<p>
 										Mirillas de 2" en Aluminio.<br>
 										Mirillas de 2" en Carbon Steel.<br>
-										Mirillas de 3" en Carbon Steel.<br>
+										Mirillas de 3" en Carbon Steel.<br><br>
+										<br>
+										<br>
+										<br>
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4">
+							<div class="col-sm-6 col-md-4 colsize">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/MIRILLAS-DE-5%E2%80%9D.jpg" alt="Mirillas de 5">
 									<p class="yellow center-text">Mirillas de 5"</p>
 									<p>
 										Mirillas de 5" en Aluminio, Acero al Carbon y Acero Inoxidable.<br><br>
+										<br><br>
+										<br>
+										<br>
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4">
+							<div class="col-sm-6 col-md-4 colsize">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/INDICADORES-DE-NIVEL.jpg" alt="Indicadores de Nivel">
 									<p class="yellow center-text">Indicadores de Nivel</p>
@@ -472,7 +479,7 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4">
+							<div class="col-sm-6 col-md-4 colsize">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/ESFERAS-DE-FLOTACION.jpg" alt="Esferas de Flotación">
 									<p class="yellow center-text">Esferas de Flotación</p>
@@ -481,12 +488,53 @@
 									</p>
 								</div>
 							</div>
-							<div class="col-sm-6 col-md-4">
+							<div class="col-sm-6 col-md-4 colsize">
 								<div class="product-detail">
 									<img src="img/content/products/NVE/MANOMETRO.jpg" alt="Manómetros">
 									<p class="yellow center-text">Manómetros</p>
 									<p>
-										Manómetros de Presión y Vacío.<br>
+										Manómetros de Presión y Vacío.<br><br>
+									</p>
+								</div>
+							</div>
+							<div class="col-sm-6 col-md-4 colsize">
+								<div class="product-detail">
+									<img src="img/content/products/WEST/sist-prot-bombas-230.jpg" alt="Sistema Protección 230">
+									<p class="yellow center-text">Sistemas de Protección de Bombas de hasta 230 CFM</p>
+									<p>
+										Incluye Filtro Primario, Secundario, Filtro Final y Atrapa Aceites.<br>
+										Para las siguientes bombas: Super 6, SDS 6, SDS 12 Y SDS Ultra.<br>
+										Vendidas Individualmente.<br>
+									</p>
+								</div>
+							</div>
+							<div class="col-sm-6 col-md-4 colsize">
+								<div class="product-detail">
+									<img src="img/content/products/WEST/sist-prot-40.jpg" alt="Sistema Protección 40">
+									<p class="yellow center-text">Sistema Económico de Protección para Bombas de hasta 40 CFM</p>
+									<p>
+										Para la bomba Provac 3 y bombas de 40 cfm.<br>
+										Vendidas Individualmente.<br>
+									</p>
+								</div>
+							</div>
+							<div class="col-sm-6 col-md-4 colsize">
+								<div class="product-detail">
+									<img src="img/content/products/WEST/valv-alivio.jpg" alt="Válvulas de Alivio">
+									<p class="yellow center-text">Válvulas de Alivio para Presión y Succión</p>
+									<p>
+										Todos los sitemas de succion deberían llevar instalados en alguna parte válvulas de alivio tanto de presión como de succión.
+										Estos están diseñados para dejar entrar air ambiente al sistema para que el nivel de vacío se mantenga dentro de parámetros.
+										Estas valvulas de alivio son ajustables. Es importante adquirir la valvula de alivio que este empatada con el flujo de aire de la bomba.
+									</p>
+								</div>
+							</div>
+							<div class="col-sm-6 col-md-4 colsize">
+								<div class="product-detail">
+									<img src="img/content/products/WEST/Kit-de-rep.jpg" alt="Kit de Reparación">
+									<p class="yellow center-text">Kit de Reparación</p>
+									<p>
+										Todo lo necesario para reparar la bomba incluyendo veletas, baleros, sellos, empaques, orings.<br>
 									</p>
 								</div>
 							</div>
@@ -496,145 +544,16 @@
 						<div class="row">
 							<div class="col-sm-6 col-md-4">
 								<div class="product-detail">
-									<img src="img/content/products/product-1.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
+									<img src="img/content/products/WEST/conde-ProVac-portable.jpg" alt="Aspiradora Portátil">
+									<p class="yellow center-text">Aspiradora Portátil Industrial</p>
 									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-3.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-2.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-1.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-3.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-2.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-1.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-3.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-2.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
+										<strong>Flujo Maxima de aire:</strong> 35 cfm<br>
+										<strong>Motor:</strong> de 1 1/2Hp, 115V 13.4 FLA<br>
+										<strong>Vacio Operativo:</strong> 16"Hg<br>
+										<strong>Presion Operativa:</strong> 5 psi<br>
+										<strong>Tiempo de Llenado:</strong> 15 segundos<br>
+										<strong>Ruido:</strong> 69Dba @ 3 metros<br>
+										Capacidad de tanque de 60 gallones
 									</p>
 								</div>
 							</div>

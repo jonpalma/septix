@@ -325,7 +325,7 @@ input:focus ,textarea:focus {
 	
 	display: block;
 	margin: 20px auto;
-	border: #f9c025 solid 2px;
+	border: #f9c025 solid 4px;
 	border-radius: 5px;
 	max-width: 100%;
 }
