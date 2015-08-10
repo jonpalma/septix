@@ -563,12 +563,7 @@ footer .sm-border-left {
 }
 
 
-@media (max-width: 992px) {	
-	
-	.navbar-nav {
-		margin-top: -15px;
-	}
-	
+@media (max-width: 992px) {		
 	.navbar-brand img {
 		width: 190px;
 		margin-top: 15px;
