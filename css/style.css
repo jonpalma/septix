@@ -68,6 +68,18 @@ h2 {
 	padding: 100px 10px;
 }
 
+.nosotros .padding {
+	padding-bottom: 50px;
+}
+
+.productos .padding {
+	padding-top: 50px;
+}
+
+.manuales h1 {
+	margin-bottom: 50px;
+}
+
 .center-text {
 	text-align: center;
 }
@@ -364,6 +376,7 @@ input:focus ,textarea:focus {
 	background: url(../img/backgrounds/fixed-2.jpg) no-repeat center 16% fixed;
 	-webkit-background-size: cover;
 	background-size: cover;
+	background-attachment: fixed;
 	width: 100vw;
 	height: 250px;
 }

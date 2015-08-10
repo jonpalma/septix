@@ -16,44 +16,14 @@
 <div id="nosotros" class="nosotros">
 	<div class="container padding">
 		<h1 class="yellow">Nosotros</h1>
-		<p class="center-text">Vestibulum id hendrerit augue. Phasellus vel mauris nec sapien laoreet condimentum sit amet vitae lorem. Phasellus vulputate semper nunc. Sed feugiat, nulla ut consectetur tincidunt, magna magna convallis tortor, quis dictum sem felis sit amet ligula. Duis ac lorem in purus aliquam sollicitudin.</p>
-		<p class="center-text">Sed tempus lectus quis nunc gravida, eu porttitor ligula posuere. Mauris dictum arcu augue, sit amet finibus lectus volutpat non.</p>
+		<p class="center-text">La empresa Septix se deriva de Maquinas M empresa que se ha posicionado en los últimos años como empresa líder en el ramo de desazolve. Septix se ha especializado en suministrar todo el equipo y refacciones para el sector especifico de la industria de limpieza séptica.</p>
+		<p class="center-text">Principalmente las Bombas de Paletas, para la cual contamos con 2 proveedores lideres en su ramo, las Bombas Challenger de NVE y las Bombas Conde de Westmoore LTD.</p>
 	</div>
 </div>
 <!-- END NOSOTROS -->
 
-<!-- BEGIN SERVICIOS -->
-<div id="servicios">
-	<div class="parallax-container">
-		<div class="parallax">
-			<img src="img/backgrounds/2.jpg" alt="parallax">
-		</div>
-		<div class="container padding">
-			<h1 class="white">Nuestros Servicios</h1>
-			<br class="vert-margin-small">
-			<div class="servicios">
-				<div class="servicio-item">
-					<img src="img/content/servicios/1.png" alt="Vestibulum">
-					<p>Vestibulum id hendrerit augue</p>
-				</div>
-				<div class="servicio-line"></div>				
-				<div class="servicio-item">
-					<img src="img/content/servicios/2.png" alt="id hendrerit">
-					<p>Vestibulum id hendrerit augue</p>
-				</div>
-				<div class="servicio-line"></div>
-				<div class="servicio-item">
-					<img src="img/content/servicios/3.png" alt="augue">
-					<p>Vestibulum id hendrerit augue</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-<!-- END SERVICIOS -->
-
 <!-- BEGIN PRODUCTOS -->
-<div id="productos">
+<div id="productos" class="productos">
 	<div class="container padding">
 		<h1 class="blue">Productos</h1>
 		<br>
@@ -88,14 +58,13 @@
 <!-- END PRODUCTOS -->
 
 <!-- BEGIN MANUALES -->
-<div id="manuales">
+<div id="manuales" class="manuales">
 	<div class="parallax-container">
 		<div class="parallax">
 			<img src="img/backgrounds/3.jpg" alt="parallax">
 		</div>
 		<div class="container padding">
-			<h1 class="white">Manuales</h1>
-			<p class="white center-text">Vestibulum id hendrerit augue. Phasellus vel mauris nec sapien laoreet condimentum sit amet vitae lorem. Phasellus vulputate semper nun</p>
+			<h1 class="white">Literatura</h1>
 			<br>
 			<div class="row">
 				<div class="col-md-4">

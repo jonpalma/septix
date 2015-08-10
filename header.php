@@ -28,8 +28,7 @@
 				<div id="collapsible-nav" class="collapse navbar-collapse">
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="<?php echo ($thispage=="index")? "":"index.php" ?>#inicio" class="smoothScroll">Inicio</a></li>
-						<li><a href="<?php echo ($thispage=="index")? "":"index.php" ?>#nosotros" class="smoothScroll">Nosotros</a></li>
-						<li><a href="<?php echo ($thispage=="index")? "":"index.php" ?>#servicios" class="smoothScroll">Servicios</a></li>						
+						<li><a href="<?php echo ($thispage=="index")? "":"index.php" ?>#nosotros" class="smoothScroll">Nosotros</a></li>					
 						<li <?php if($thispage=="Productos") echo "class='active'" ?>><a href="#productos" class="smoothScroll" id="products-link">Productos</a></li>
 						<li <?php if($thispage=="Manuales") echo "class='active'" ?>><a href="#manuales" class="smoothScroll" id="manuals-link">Literatura</a></li>
 						<li><a href="<?php echo ($thispage=="index")? "":"index.php" ?>#contacto" class="smoothScroll">Contáctanos</a></li>
