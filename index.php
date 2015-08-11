@@ -6,7 +6,7 @@
 <div id="inicio" class="banner">
 	<div class="transform-center-vertical">
 		<h1 class="blue">Soluciones Sépticas</h1>
-		<h2 class="blue">Contamos con los mejores productos y servicio</h2>
+		<h2 class="blue">Contamos con las mejores bombas y accesorios</h2>
 		<a href="#contacto" class="btn-yellow smoothScroll">Contáctanos</a>
 	</div>
 </div>
@@ -25,31 +25,67 @@
 <!-- BEGIN PRODUCTOS -->
 <div id="productos" class="productos">
 	<div class="container padding">
-		<h1 class="blue">Productos</h1>
+		<h1 class="blue">Productos NVE</h1>
 		<br>
 		<div class="row">
 			<div class="col-md-6 col-lg-3">
 				<div class="product">
-					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/products/1.png" alt="Bombas de Presión/Succión"></div></a>
-					<p class="blue">Bombas de Presión/Succión</p>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3">
-				<div class="product">			
-					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/products/2.png" alt="Motores"></div></a>
-					<p class="blue">Sistemas completos con motor a gasolina o diesel</p>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3">
-				<div class="product">			
-					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/products/3.png" alt="Accesorios"></div></a>
+					<a href="productos.php#accesorios"><div class="blue hoveroverlay"><img src="img/content/index/nve/ACCESORIOS.jpg" alt="Accesorios"></div></a>
 					<p class="blue">Accesorios</p>
 				</div>
 			</div>
 			<div class="col-md-6 col-lg-3">
 				<div class="product">			
-					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/products/4.png" alt="Aspiradoras"></div></a>
-					<p class="blue">Aspiradora portatil industrial</p>
+					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/index/nve/BOMBAS-DE-VACIO-BATTIONI-PAGANI--PARA-USO-COMERCIAL.jpg" alt="Bombas de Vacío Comercial"></div></a>
+					<p class="blue">Bombas de Vacío para uso Comercial</p>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3">
+				<div class="product">			
+					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/index/nve/BOMBAS-DE-VACIO-CHALLENGER-PARA-USO-INDUSTRIAL.jpg" alt="Bombas de Vacío Industrial"></div></a>
+					<p class="blue">Bombas de Vacío para uso Industrial</p>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3">
+				<div class="product">			
+					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/index/nve/COMPONENTES-PRINCIPALES.jpg" alt="Componentes Principales"></div></a>
+					<p class="blue">Componentes Principales</p>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-6 col-lg-12">
+				<div class="product">			
+					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/index/nve/SISTEMAS-COMPLETOS-CHALLENGER.jpg" alt="Sistemas Completos"></div></a>
+					<p class="blue">Sistemas Completos</p>
+				</div>
+			</div>
+		</div>
+		<h1 class="blue">Productos Conde</h1>
+		<br>
+		<div class="row">
+			<div class="col-md-6 col-lg-3">
+				<div class="product">
+					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/index/conde/Accesorios.jpg" alt="Accesorios"></div></a>
+					<p class="blue">Acessorios</p>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3">
+				<div class="product">			
+					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/index/conde/Aspiradora-portatil-industrial.jpg" alt="Aspiradora Portatil"></div></a>
+					<p class="blue">Aspiradora Portatil Industrial</p>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3">
+				<div class="product">			
+					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/index/conde/Bombas-de-Presion-Succion.jpg" alt="Bombas de Presión/Succión"></div></a>
+					<p class="blue">Bombaas de Presión/Succión</p>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3">
+				<div class="product">			
+					<a href="productos.php"><div class="blue hoveroverlay"><img src="img/content/index/conde/Sistemas-Completos-con-motor-a-gasolina-o-diesel.jpg" alt="Sistemas Gasolina/Diesel"></div></a>
+					<p class="blue">Sistemas Completos con Motor a Gasolina o Diesel</p>
 				</div>
 			</div>
 		</div>
@@ -98,12 +134,15 @@
 		<br class="vert-margin-small">
 		<div class="row">
 			<div class="col-sm-6">
-				<p class="contact">
-					Dirección:
+				<p class="contact">					
+					Dirección:<br>
+					Presa Rejon 2507<br>
+					Col. Santuario.<br>
+					CP. 31206<br>
+					Chihuahua, Chih.<br>
 					<br>
-					Teléfono:
-					<br>
-					Correo:
+					Teléfono:<br>
+					(614)290.68.36
 				</p>
 			</div>
 			<div class="col-sm-6 sm-border-left">

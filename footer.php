@@ -8,11 +8,10 @@
 					<div class="col-sm-6">						
 						<div class="footer-contact sm-border-left">
 							<p>
-								C. California No. 4109-C
-								<br>
-								Col. Quintas del Sol, C.P. 31214, Chihuahua, Chih.
-								<br>
-								Tel. 614 4 30 29 01
+								Presa Rejon 2507<br>
+								Col. Santuario.<br>
+								CP. 31206<br>
+								Chihuahua, Chih.
 							</p>
 						</div>
 					</div>

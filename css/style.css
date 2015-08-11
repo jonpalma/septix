@@ -76,6 +76,10 @@ h2 {
 	padding-top: 50px;
 }
 
+.productos img {
+	border: #227cbf solid 2px;
+}
+
 .manuales h1 {
 	margin-bottom: 50px;
 }
@@ -147,6 +151,9 @@ h2 {
     display: inline;
 }
 
+p.contact {
+	font-size: 14px;	
+}
 
 /* END GENERAL STYLES */
 
