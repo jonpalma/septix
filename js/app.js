@@ -21,7 +21,6 @@ $(document).ready(function(){
 
 //grabs the hash tag from the url
 var hash = window.location.hash;
-console.log(hash.toString());
 //checks whether or not the hash tag is set
 if (hash != "") {	
 //removes all active classes from tabs
