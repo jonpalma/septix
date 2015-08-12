@@ -16,7 +16,36 @@ $(document).ready(function(){
       e.preventDefault();
       document.location.href="manuales.php"; 
 	});
+	$(window).scrollTop(0);
 });
+
+//grabs the hash tag from the url
+var hash = window.location.hash;
+console.log(hash.toString());
+//checks whether or not the hash tag is set
+if (hash != "") {	
+//removes all active classes from tabs
+	$('#tabs div').each(function() {
+		$(this).removeClass('active');
+	});
+	$('#my-tab-content div').each(function() {
+		$(this).removeClass('in active');
+	});
+//this will add the active class on the hashtagged value
+	var link = "";
+	$('#tabs div').each(function() {
+		link = $(this).find('a').attr('href');
+		if (link == hash) {
+			$(this).addClass('active');
+		}
+	});
+	$('#my-tab-content div').each(function() {
+		link = $(this).attr('id');
+		if ('#'+link == hash) {
+			$(this).addClass('in active');
+		}
+	});
+}
 
 //Ajax contact form
 $(function() {

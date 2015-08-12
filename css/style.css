@@ -338,14 +338,10 @@ input:focus ,textarea:focus {
 	color: #eee;
 }
 
-.product-detail {
-}
-
-.product-detail img {
-	
+.product-detail img {	
 	display: block;
 	margin: 20px auto;
-	border: #f9c025 solid 4px;
+	border: #f9c025 solid 2px;
 	border-radius: 5px;
 	max-width: 100%;
 }

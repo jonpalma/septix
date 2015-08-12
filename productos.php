@@ -9,54 +9,59 @@
 	<div class="row negativemargin">
 			<div class="col-sm-3">
 				<!-- BEGIN CONTROLS -->
-				<div class="nav nav-tabs controls">
+				<div class="nav nav-tabs controls" id="tabs">
 					<h4>Categorías</h4>
-					<a href="#bombas-vacio" role="tab" data-toggle="tab">
-						<div class="active control-item">
-							<p>Bombas de vacio uso industrial</p>
-						</div>
-					</a>
-					<a href="#bombas-comercial" role="tab" data-toggle="tab">
-						<div class="control-item">
+					<div class="active control-item">
+						<a href="#bombas-vacio" role="tab" data-toggle="tab">						
+							<p>Bombas de vacio uso industrial</p>						
+						</a>
+					</div>					
+					<div class="control-item">
+						<a href="#bombas-comercial" role="tab" data-toggle="tab">
 							<p>Bombas de vacio uso comercial</p>
-						</div>
-					</a>
-					<a href="#bombas-presion" role="tab" data-toggle="tab">
-						<div class="control-item">
-							<p>Bomas de presión/succión</p>
-						</div>
-					</a>
-					<a href="#sistemas" role="tab" data-toggle="tab">
-						<div class="control-item">
+						</a>
+					</div>
+					<div class="control-item">
+						<a href="#sistemas" role="tab" data-toggle="tab">
 							<p>Sistemas Completos</p>
-						</div>
-					</a>
-					<a href="#sistemas-motor" role="tab" data-toggle="tab">
-						<div class="control-item">
-							<p>Sistemas completos con motor a gasolina o diesel</p>
-						</div>
-					</a>
-					<a href="#accesorios" role="tab" data-toggle="tab">
-						<div class="control-item">
-							<p>Accesorios</p>
-						</div>
-					</a>
-					<a href="#aspiradora" role="tab" data-toggle="tab">
-						<div class="control-item">
-							<p>Aspiradora portatil industrial</p>
-						</div>
-					</a>
-					<a href="#componentes" role="tab" data-toggle="tab">
-						<div class="control-item">
+						</a>
+					</div>
+					<div class="control-item">
+						<a href="#accesorios-nve" role="tab" data-toggle="tab">
+							<p>Accesorios NVE</p>
+						</a>
+					</div>
+					<div class="control-item">
+						<a href="#componentes" role="tab" data-toggle="tab">
 							<p>Componentes principales</p>
-						</div>
-					</a>
+						</a>
+					</div>
+					<div class="control-item">
+						<a href="#bombas-presion" role="tab" data-toggle="tab">
+							<p>Bomas de presión/succión</p>
+						</a>
+					</div>										
+					<div class="control-item">
+						<a href="#sistemas-motor" role="tab" data-toggle="tab">
+							<p>Sistemas completos con motor a gasolina o diesel</p>
+						</a>
+					</div>						
+					<div class="control-item">
+						<a href="#accesorios-conde" role="tab" data-toggle="tab">
+							<p>Accesorios Conde</p>
+						</a>
+					</div>			
+					<div class="control-item">
+						<a href="#aspiradora" role="tab" data-toggle="tab">
+							<p>Aspiradora portatil industrial</p>
+						</a>
+					</div>					
 				</div>
 			<!-- END CONTROLS -->
 			</div>
 			<div class="col-sm-9">
 				<!-- BEGIN PRODUCTS -->
-				<div class="tab-content">
+				<div class="tab-content" id="my-tab-content">
 					<div role="tabpanel" class="tab-pane fade in active" id="bombas-vacio">
 						<div class="row">
 							<div class="col-sm-6 col-md-4">
@@ -399,7 +404,7 @@
 							</div>
 						</div>								
 					</div>
-					<div role="tabpanel" class="tab-pane fade" id="accesorios">
+					<div role="tabpanel" class="tab-pane fade" id="accesorios-nve">
 						<div class="row content-container">
 							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
@@ -489,8 +494,13 @@
 										Manómetros de Presión y Vacío.<br>
 									</p>
 								</div>
-							</div>
-							<div class="col-sm-6 col-md-4 ">
+							</div>							
+						</div>								
+					</div>
+					
+					<div role="tabpanel" class="tab-pane fade" id="accesorios-conde">
+						<div class="row content-container">
+						<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
 									<img src="img/content/products/WEST/sist-prot-bombas-230.jpg" alt="Sistema Protección 230">
 									<p class="yellow center-text">Sistemas de Protección de Bombas de hasta 230 CFM</p>
@@ -530,9 +540,10 @@
 										Todo lo necesario para reparar la bomba incluyendo veletas, baleros, sellos, empaques, orings.<br>
 									</p>
 								</div>
-							</div>
-						</div>								
+							</div>							
+						</div>
 					</div>
+					
 					<div role="tabpanel" class="tab-pane fade" id="aspiradora">
 						<div class="row">
 							<div class="col-sm-6 col-md-4">
