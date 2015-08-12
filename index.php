@@ -39,22 +39,22 @@
 					<a href="productos.php#bombas-comercial"><div class="blue hoveroverlay"><img src="img/content/index/nve/BOMBAS-DE-VACIO-BATTIONI-PAGANI--PARA-USO-COMERCIAL.jpg" alt="Bombas de Vacío Comercial"></div></a>
 					<p class="blue">Bombas de Vacío para uso Comercial</p>
 				</div>
-			</div>
-			<div class="row">
-			<div class="col-md-6 col-lg-12">
+			</div>			
+			<div class="col-md-6 col-lg-3">
 				<div class="product">			
 					<a href="productos.php#sistemas"><div class="blue hoveroverlay"><img src="img/content/index/nve/SISTEMAS-COMPLETOS-CHALLENGER.jpg" alt="Sistemas Completos"></div></a>
 					<p class="blue">Sistemas Completos</p>
 				</div>
 			</div>
-		</div>
-		<div class="col-md-6 col-lg-3">
+			<div class="col-md-6 col-lg-3">
 				<div class="product">
 					<a href="productos.php#accesorios-nve"><div class="blue hoveroverlay"><img src="img/content/index/nve/ACCESORIOS.jpg" alt="Accesorios"></div></a>
 					<p class="blue">Accesorios</p>
 				</div>
 			</div>
-			<div class="col-md-6 col-lg-3">
+		</div>
+		<div class="row">		
+			<div class="col-md-6 col-lg-12">
 				<div class="product">			
 					<a href="productos.php#componentes"><div class="blue hoveroverlay"><img src="img/content/index/nve/COMPONENTES-PRINCIPALES.jpg" alt="Componentes Principales"></div></a>
 					<p class="blue">Componentes Principales</p>
