@@ -23,7 +23,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand smoothScroll" href="#inicio"><img src="img/logo.png" alt="SeptiX - Soluciones Sépticas"></a>
+					<a class="navbar-brand smoothScroll" href="<?php echo ($thispage=="index")? "":"index.php" ?>#inicio"><img src="img/logo.png" alt="SeptiX - Soluciones Sépticas"></a>
 				</div>
 				<div id="collapsible-nav" class="collapse navbar-collapse">
 					<ul class="nav navbar-nav navbar-right">

@@ -17,6 +17,7 @@ $(document).ready(function(){
       document.location.href="manuales.php"; 
 	});
 	$(window).scrollTop(0);
+	$("html,body").animate({ scrollTop: 0 }, "slow");
 });
 
 //grabs the hash tag from the url

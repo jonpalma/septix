@@ -384,48 +384,30 @@ input:focus ,textarea:focus {
 	height: 250px;
 }
 
-.manual-detail {
-	position: relative;
-	
+.manual-sections p, h3 {
+	text-align: left;
 }
 
-.manual-detail .hoveroverlay {
-	margin: 40px auto;
-	left: 50%;
-    -webkit-transform: translateX(-50%);
-	transform: translateX(-50%);
+.manual-sections h3 {
+	padding-top: 50px;
 }
 
-.manual-detail img {
-	border: 2px solid #4ab35a;
-	max-width: 95vw;
-	display: block;
-	margin: 0px auto;
-	
-}
-
-.manual-language {
-	text-align: center;	
-}
-
-.manual-language .language {
-	margin: 28px 28px;
-}
-
-.manual-language a {
+.manual-sections a {
 	text-decoration: none;
-	color: #ffffff;
-	display: inline-block;
-	padding-top: 5px;
-	width: 107px;
-	height: 30px;
-	background-color: #68ad6f;
+	color: #303030;
+	line-height: 2;
+	font-size: 1.2em
 }
 
-.manual-language a:hover {
-	color: #cccccc;
-	background-color: #538a59;
+.manual-sections a > img {
+	width: 20px;
 }
+
+.manual-sections hr {
+	margin: 30px 100px;
+	border-color: #AEB3B5;
+}
+
 /* END MANUALES */
 
 /* BEGIN FOOTER */
@@ -683,7 +665,15 @@ footer .sm-border-left {
 	.product-detail p {
 		padding: 0px 50px;
 	}
-	
+	.manual-sections {
+		text-align: center;
+	}
+	.manual-sections p, h3 {		
+		text-align: center;	
+	}
+	.manual-sections p {
+		padding-top: 15px;	
+	}
 }
 /* Extra Small Devices, Phones */ 
 @media (max-width : 480px) {
