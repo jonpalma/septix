@@ -548,7 +548,7 @@
 						<div class="row">
 							<div class="col-sm-6 col-md-4">
 								<div class="product-detail">
-									<img src="img/content/products/WEST/conde-ProVac-portable.jpg" alt="Aspiradora Portátil">
+									<img src="img/content/products/WEST/conde-ProVac.jpg" alt="Aspiradora Portátil">
 									<p class="yellow center-text">Aspiradora Portátil Industrial</p>
 									<p>
 										<strong>Flujo Maxima de aire:</strong> 35 cfm<br>

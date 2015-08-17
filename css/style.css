@@ -341,7 +341,6 @@ input:focus ,textarea:focus {
 .product-detail img {	
 	display: block;
 	margin: 20px auto;
-	border: #f9c025 solid 2px;
 	border-radius: 5px;
 	max-width: 100%;
 }

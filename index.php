@@ -52,15 +52,7 @@
 					<p class="blue">Accesorios</p>
 				</div>
 			</div>
-		</div>
-		<div class="row">		
-			<div class="col-md-6 col-lg-12">
-				<div class="product">			
-					<a href="productos.php#componentes"><div class="blue hoveroverlay"><img src="img/content/index/nve/COMPONENTES-PRINCIPALES.jpg" alt="Componentes Principales"></div></a>
-					<p class="blue">Componentes Principales</p>
-				</div>
-			</div>
-		</div>		
+		</div>	
 		<h1 class="blue">Productos Conde</h1>
 		<br>
 		<div class="row">
