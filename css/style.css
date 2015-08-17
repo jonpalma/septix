@@ -407,6 +407,25 @@ input:focus ,textarea:focus {
 	border-color: #AEB3B5;
 }
 
+.btn-manual {
+    display: block;
+    margin: 0 auto;
+    color: #fff;
+	background-color:#4ab35a;
+	width: 230px;
+	height: 41px;
+	border: none;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+a.btn-manual:hover {
+    text-decoration: none;
+    background: #3B8F43;
+    color: #fff;
+}
+
 /* END MANUALES */
 
 /* BEGIN FOOTER */
