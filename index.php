@@ -41,15 +41,15 @@
 				</div>
 			</div>			
 			<div class="col-md-6 col-lg-3">
-				<div class="product">			
-					<a href="productos.php#sistemas"><div class="blue hoveroverlay"><img src="img/content/index/nve/SISTEMAS-COMPLETOS-CHALLENGER.jpg" alt="Sistemas Completos"></div></a>
-					<p class="blue">Sistemas Completos</p>
-				</div>
-			</div>
-			<div class="col-md-6 col-lg-3">
 				<div class="product">
 					<a href="productos.php#accesorios-nve"><div class="blue hoveroverlay"><img src="img/content/index/nve/ACCESORIOS.jpg" alt="Accesorios"></div></a>
 					<p class="blue">Accesorios</p>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3">
+				<div class="product">			
+					<a href="productos.php#componentes"><div class="blue hoveroverlay"><img src="img/content/index/nve/COMPONENTES-PRINCIPALES.jpg" alt="Componentes Principales"></div></a>
+					<p class="blue">Componentes Principales</p>
 				</div>
 			</div>
 		</div>	
@@ -76,7 +76,7 @@
 			</div>
 			<div class="col-md-6 col-lg-3">
 				<div class="product">			
-					<a href="productos.php#aspiradora"><div class="blue hoveroverlay"><img src="img/content/index/conde/Aspiradora-portatil-industrial.jpg" alt="Aspiradora Portatil"></div></a>
+					<a href="productos.php#aspiradora"><div class="blue hoveroverlay"><img src="img/content/index/conde/aspiradora-portatil.jpg" alt="Aspiradora Portatil"></div></a>
 					<p class="blue">Aspiradora Portatil Industrial</p>
 				</div>
 			</div>			
@@ -94,26 +94,7 @@
 		<div class="container padding">
 			<h1 class="white">Literatura</h1>
 			<br>
-			<div class="row">
-				<div class="col-md-4">
-					<div class="manual">
-						<a href="pdf/304-Owners-Manual-062015-reduced.pdf"><div class="white hoveroverlay"><img src="img/content/manuals/index_manual.png" alt="Owner's Manual 304"></div></a>
-						<p class="white center-text">OWNER'S MANUAL</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="manual">
-						<a href="pdf/607-Pro_Manual_small.compressed.pdf"><div class="white hoveroverlay"><img src="img/content/manuals/index_manual2.png" alt="Owner's Manual 607"></div></a>
-						<p class="white center-text">OWNER'S MANUAL</p>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="manual">
-						<a href="pdf/866-Owners-Manual-Rev3.compressed.pdf"><div class="white hoveroverlay"><img src="img/content/manuals/index_manual3.png" alt="Owner's Manual 866"></div></a>
-						<p class="white center-text">OWNER'S MANUAL</p>
-					</div>
-				</div>
-			</div>
+			<a href="manuales.php" class="btn-manual">Ver Manuales</a>
 		</div>
 	</div>
 </div>
@@ -122,7 +103,7 @@
 <!-- BEGIN CONTACTO  -->
 <div id="contacto">
 	<div class="container padding">
-		<h1 class="green">CONTÁCTANOS</h1>
+		<h1 class="blue">CONTÁCTANOS</h1>
 		<br class="vert-margin-small">
 		<div class="row">
 			<div class="col-sm-6">

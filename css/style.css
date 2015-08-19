@@ -93,7 +93,7 @@ h2 {
 }
 
 .sm-border-left {
-	border-left: 3px solid #4ab35a;
+	border-left: 3px solid #3fa5dd;
 }
 
 .sm-right {
@@ -258,7 +258,7 @@ label {
 input, textarea {
 	min-height: 46px;
 	width: 100%;
-	border: #4ab35a solid 3px;
+	border: #3fa5dd solid 3px;
 	display: block;
 	margin-bottom: 20px;
 	padding: 5px;
@@ -407,6 +407,24 @@ input:focus ,textarea:focus {
 	border-color: #AEB3B5;
 }
 
+.btn-manual {
+    display: block;
+    margin: 0 auto;
+    color: #fff;
+	background-color:#4ab35a;
+	width: 230px;
+	height: 41px;
+	border: none;
+    text-align: center;
+    padding-top: 10px;
+    font-size: 14px;
+}
+
+a.btn-manual:hover {
+    text-decoration: none;
+    background: #3B8F43;
+    color: #fff;
+}
 /* END MANUALES */
 
 /* BEGIN FOOTER */

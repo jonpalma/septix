@@ -22,11 +22,6 @@
 						</a>
 					</div>
 					<div class="control-item">
-						<a href="#sistemas" role="tab" data-toggle="tab">
-							<p>Sistemas Completos</p>
-						</a>
-					</div>
-					<div class="control-item">
 						<a href="#accesorios-nve" role="tab" data-toggle="tab">
 							<p>Accesorios NVE</p>
 						</a>
@@ -294,28 +289,6 @@
 							</div>
 						</div>								
 					</div>
-					<div role="tabpanel" class="tab-pane fade" id="sistemas">
-						<div class="row">
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/NVE/607-PRO-MUFFLER-PAK.jpg" alt="607 Muffler PAK">
-									<p class="yellow center-text">607 Muffler PAK</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/NVE/866-MUFFLER-PAK.jpg" alt="866 Muffler PAK">
-									<p class="yellow center-text">866 Muffler PAK</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/NVE/DEFENDER-500.jpg" alt="Defender 500">
-									<p class="yellow center-text">Defender 500</p>
-								</div>
-							</div>							
-						</div>								
-					</div>
 					<div role="tabpanel" class="tab-pane fade" id="sistemas-motor">
 						<div class="row">
 							<div class="col-sm-6 col-md-4">
@@ -548,7 +521,7 @@
 						<div class="row">
 							<div class="col-sm-6 col-md-4">
 								<div class="product-detail">
-									<img src="img/content/products/WEST/conde-ProVac.jpg" alt="Aspiradora Portátil">
+									<img src="img/content/products/WEST/conde-ProVac-portable.jpg" alt="Aspiradora Portátil">
 									<p class="yellow center-text">Aspiradora Portátil Industrial</p>
 									<p>
 										<strong>Flujo Maxima de aire:</strong> 35 cfm<br>
