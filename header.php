@@ -6,6 +6,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="keywords" content="Bombas, Succion, Presion, Veletas, Valvulas de Guillotina, Filtro, Septico, Desazolve, Trampa de Grasa, Limpieza Fosas, Aspiradora Industrial, Silenciador, Valvula de alivio">
 		<title><?php echo ($thispage=="index")? "SeptiX":$thispage." - SeptiX"?></title>
+		
+		<link rel="shortcut icon" href="img/icon.ico" type="image/x-icon">
+		
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/style.css">
 		<!--[if lt IE 9]>

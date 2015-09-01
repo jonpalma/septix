@@ -381,7 +381,7 @@
 						<div class="row content-container">
 							<div class="col-sm-6 col-md-4 ">
 								<div class="product-detail">
-									<img src="img/content/products/product-1.png" alt="Válvulas de Guillotina">
+									<img src="img/content/products/NVE/VALVULA-DE-GUILLOTINA.jpg" alt="Válvulas de Guillotina">
 									<p class="yellow center-text">Válvulas de Guillotina</p>
 									<p>
 										Hechas en Italia.<br>
@@ -540,145 +540,41 @@
 						<div class="row">
 							<div class="col-sm-6 col-md-4">
 								<div class="product-detail">
-									<img src="img/content/products/product-1.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
+									<img src="img/content/products/NVE/componentes/FILTROS-PRIMARIO3.jpg" alt="Filtros Primarios">
+									<p class="yellow center-text">Filtros Primarios</p>
 									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
+										Varios  diametro, disponibles en bajo perfil.<br>
+                              			Cuello disponible an aluminio, Acero al carbon y Acero Inoxidable.
 									</p>
 								</div>
 							</div>
 							<div class="col-sm-6 col-md-4">
 								<div class="product-detail">
-									<img src="img/content/products/product-3.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
+									<img src="img/content/products/NVE/componentes/FILTRO-SECUNDARIO-10-14.jpg" alt="Filtro Secundario">
+									<p class="yellow center-text">Filtro Secundario</p>
 									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
+										Capacidades en 4, 5, 10, 14 y 25 Gallones.<br>
+                               			Disponibles en Aluminio, Acero al carbon y Acero inoxidable.
 									</p>
 								</div>
 							</div>
 							<div class="col-sm-6 col-md-4">
 								<div class="product-detail">
-									<img src="img/content/products/product-2.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
+									<img src="img/content/products/NVE/componentes/FILTRO-FINAL.jpg" alt="Filtro Final">
+									<p class="yellow center-text">Filtro Final</p>
 									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
+										Disponibles con puertos de 3 o 4”<br>
+										Fabricado en acero Inoxidable.<br><br><br>
 									</p>
 								</div>
 							</div>
 							<div class="col-sm-6 col-md-4">
 								<div class="product-detail">
-									<img src="img/content/products/product-1.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
+									<img src="img/content/products/NVE/componentes/TAPA-HOMBRE-12.jpg" alt="Tapa Hombre">
+									<p class="yellow center-text">Tapa Hombre</p>
 									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-3.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-2.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-1.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-3.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
-									</p>
-								</div>
-							</div>
-							<div class="col-sm-6 col-md-4">
-								<div class="product-detail">
-									<img src="img/content/products/product-2.png" alt="Conde ProVac 3 HD">
-									<p class="yellow center-text">Conde ProVac3 HD</p>
-									<p>
-										<strong>Flujo Maxima de aire:</strong> 35 cfm @ aire libre<br>
-										<strong>Rango de Velocidad:</strong> 1100 rpm a 1750 rpm<br>
-										<strong>Vacio Max:</strong> 27"Hg intermitente<br>
-										<strong>Presion Max:</strong> 20 psi intermitente<br>
-										<strong>Peso:</strong> 24 kg<br>
-										<strong>Diametro de Flecha:</strong> .75"<br>
-										<strong>Puerto de Salida:</strong> 1"<br>
-										Para tanques de 50 a 300 gallones<br>
+										De 12”, 17”, 20”, 25” y 36”<br>
+                               			Disponibnles en Aluminio, Acero inoxidable y Acero inoxidable
 									</p>
 								</div>
 							</div>
