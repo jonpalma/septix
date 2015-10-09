@@ -93,7 +93,7 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "ro.ortega@gmail.com";
+        $recipient = "ventas@septix.com.mx, ro.ortega@gmail.com";
 
         // Set the email subject.
         $subject = "Contactar a $name";
