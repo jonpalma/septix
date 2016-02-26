@@ -2,8 +2,8 @@
 		<footer>
 			<div class="container footer-content">
 				<div class="row">
-					<div class="col-sm-6">
-						<p class="sm-right">Soluciones Sépticas</p>
+					<div class="col-sm-6 footer-logo">
+						<img src="img/footer-logo.png" alt="logo">
 					</div>
 					<div class="col-sm-6">						
 						<div class="footer-contact sm-border-left">

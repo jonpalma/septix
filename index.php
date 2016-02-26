@@ -5,9 +5,8 @@
 <!-- BEGIN BANNER -->
 <div id="inicio" class="banner">
 	<div class="transform-center-vertical">
-		<h1 class="blue">Soluciones Sépticas</h1>
-		<h2 class="blue">Contamos con las mejores bombas y accesorios</h2>
-		<a href="#contacto" class="btn-yellow smoothScroll">Contáctanos</a>
+		<h1 class="white">Soluciones Sépticas</h1>
+		<h2 class="white">Contamos con las mejores bombas y accesorios</h2>
 	</div>
 </div>
 <!-- END BANNER -->

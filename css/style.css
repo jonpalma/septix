@@ -69,7 +69,7 @@ h2 {
 }
 
 .nosotros .padding {
-	padding-bottom: 50px;
+	/*padding-bottom: 50px;*/
 }
 
 .productos .padding {
@@ -77,7 +77,7 @@ h2 {
 }
 
 .productos img {
-	border: #227cbf solid 2px;
+	/*border: #227cbf solid 2px;*/
 }
 
 .manuales h1 {
@@ -200,7 +200,7 @@ p.contact {
 }
 
 .banner h2, .banner h1 {
-	text-shadow: 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+	/*text-shadow: 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;*/
 }
 
 .servicios {
@@ -466,6 +466,10 @@ footer .sm-border-left {
 	color: #bbb;
 	text-decoration: none;
 }
+
+.footer-logo {
+	text-align: right;
+}
 /* END FOOTER */
 
 /* Parallax CSS */
@@ -660,9 +664,17 @@ footer .sm-border-left {
 		text-align: right;
 	}
 	
-	footer .logo {
-		float: none;
-		margin: 20px auto;
+	footer .col-sm-6 {
+		text-align: center;
+	}
+	
+	footer .col-sm-6:first-child {
+		margin-bottom: 30px;
+	}
+	
+	footer .sm-border-left {
+		border-left: 0;
+		padding-left: 0;
 	}
 	
 	.padding {
